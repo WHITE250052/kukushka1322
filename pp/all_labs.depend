@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1709551149 source:c:\users\yurat\onedrive\Документы\labs c++\Новая папка\all_labs\main.c
+	<stdio.h>
+	"lr.h"
+
+1709558607 c:\users\yurat\onedrive\Документы\labs c++\Новая папка\all_labs\lr.h
+
+1709692703 source:c:\users\yurat\onedrive\Документы\labs c++\Новая папка\all_labs\lr.c
+	"lr.h"
+	<stdio.h>
+
+1711562187 source:c:\users\sasha\desktop\all_labs\main.c
+	<stdio.h>
+	"lr.h"
+
+1711562187 c:\users\sasha\desktop\all_labs\lr.h
+
+1711562187 source:c:\users\sasha\desktop\all_labs\lr.c
+	"lr.h"
+	<stdio.h>
+
+1711562876 source:f:\all_labs\lr.c
+	"lr.h"
+	<stdio.h>
+
+1711562187 f:\all_labs\lr.h
+
+1711562187 source:f:\all_labs\main.c
+	<stdio.h>
+	"lr.h"
+
+1712759152 source:c:\users\sasha\desktop\pp\lr.c
+	"lr.h"
+	<stdio.h>
+
+1712759152 c:\users\sasha\desktop\pp\lr.h
+
+1712759152 source:c:\users\sasha\desktop\pp\main.c
+	<stdio.h>
+	"lr.h"
+
